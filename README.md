@@ -25,7 +25,7 @@ I'm always open to new collaborations and contributing to open-source projects. 
 ## 📫 How to Reach Me
 
 - Email: lgf2111@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/lgf2111/](https://www.linkedin.com/in/lgf2111/)
+- LinkedIn: [https://www.linkedin.com/in/lee-guan-feng/](https://www.linkedin.com/in/lee-guan-feng/)
 
 <!---
 lgf2111/lgf2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
