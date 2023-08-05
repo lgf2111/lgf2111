@@ -1,16 +1,14 @@
 # Hi there! 👋
 
-I'm a full-stack developer with a passion for creating beautiful and functional applications. My current focus is on mastering Flutter and Dart, and I'm always looking for exciting open-source projects to collaborate on.
+I'm a full-stack developer with a passion for creating beautiful and functional applications. I'm always looking for exciting open-source projects to collaborate on.
 
 ## 🔭 My Current Focus
 
-- Mastering Flutter and Dart.
 - Improving my skills in full-stack development.
 - Exploring new technologies and tools to enhance my development workflow.
 
 ## 🌱 What I'm Learning
 
-- Advanced Flutter development techniques.
 - Server-side programming with Node.js and Express.js.
 - Cloud-based technologies like Firebase and AWS.
 
